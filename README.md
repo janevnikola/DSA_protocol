@@ -32,7 +32,8 @@ Sb znaci signature
 Basic STS Protocol:
 
 
-Alice                        Bob
+Alice       to                 Bob
+
              αx
       ------------------>
       
