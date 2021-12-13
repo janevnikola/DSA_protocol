@@ -45,7 +45,7 @@ Alice       to                 Bob
       
       
       
-      It is possible to create a more symmetric version of this protocol where the parties
+It is possible to create a more symmetric version of this protocol where the parties
 exchange exponentials first and then exchange encrypted signatures in separate messages.
 This would make it permissible for the exponential messages to cross, and then the
 encrypted signature messages to cross. In such a case, neither Alice nor Bob need know
